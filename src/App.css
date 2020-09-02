@@ -1,0 +1,17 @@
+.App{padding-left:5%;}
+.info {
+  display: flex;
+  border: solid 2px blue;
+  width: 50%;
+}
+h1{color:rgb(9, 255, 0);
+font-size:25px;}
+
+.contact{
+  padding-left: 20px;
+  font-weight: bold;
+
+}
+
+
+
